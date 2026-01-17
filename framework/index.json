@@ -1,0 +1,101 @@
+{
+  "framework": "The 7: A Body-Based Mental Health Fingerprint System",
+  "version": "0.1",
+  "created": "2026-01-17",
+  "author": "Brainstorm session",
+
+  "core_concept": "Replace categorical psychiatric diagnosis with dimensional, person-first, body-mapped characteristics that people can understand and track themselves.",
+
+  "the_7": [
+    {
+      "name": "HEAD",
+      "question": "Where's your attention?",
+      "spectrum": ["scattered", "flexible", "locked"],
+      "body_location": "Head, behind the eyes",
+      "people_say": ["My head is all over the place", "I can't get out of my head"]
+    },
+    {
+      "name": "GUARD",
+      "question": "How alert is your protection?",
+      "spectrum": ["down", "tuned", "up"],
+      "body_location": "Chest, shoulders, throat",
+      "people_say": ["My guard is up", "I let my guard down"]
+    },
+    {
+      "name": "HEART",
+      "question": "Can you feel alive?",
+      "spectrum": ["numb", "alive", "chasing"],
+      "body_location": "Heart center",
+      "people_say": ["My heart's not in it", "Light-hearted", "Heavy heart"]
+    },
+    {
+      "name": "GUT",
+      "question": "How much fuel?",
+      "spectrum": ["empty", "steady", "overflowing"],
+      "body_location": "Core, belly, solar plexus",
+      "people_say": ["I'm gutted", "Fire in my gut", "Gut feeling"]
+    },
+    {
+      "name": "GRIP",
+      "question": "How tightly holding on?",
+      "spectrum": ["loose", "balanced", "tight"],
+      "body_location": "Hands, jaw, shoulders",
+      "people_say": ["I'm gripping too tight", "Let it go", "Can't hold onto anything"]
+    },
+    {
+      "name": "GROUND",
+      "question": "Are you here?",
+      "spectrum": ["floating", "rooted", "frozen"],
+      "body_location": "Feet, base of spine",
+      "people_say": ["I feel ungrounded", "I'm not myself", "Floaty"]
+    },
+    {
+      "name": "REACH",
+      "question": "How do you connect?",
+      "spectrum": ["pulled in", "connected", "merged"],
+      "body_location": "Arms",
+      "people_say": ["Reaching out", "Pulling back", "I need space"]
+    }
+  ],
+
+  "key_principles": [
+    "No position is inherently right - context determines value",
+    "Both ends can be problematic - not more is better",
+    "Middle is often balanced - but YOUR target is personal",
+    "States not traits - where you ARE, not who you ARE",
+    "You define the target - not norms, not professionals",
+    "Change is visible - track movement over time",
+    "Body already knows - framework names what you feel"
+  ],
+
+  "files": [
+    {
+      "file": "fingerprint-framework-the-7.md",
+      "description": "Core framework definition - the 7 characteristics"
+    },
+    {
+      "file": "fingerprint-self-assessment.md",
+      "description": "Self-assessment questions for each characteristic"
+    },
+    {
+      "file": "fingerprint-body-map.md",
+      "description": "Body-mapped visual representation"
+    },
+    {
+      "file": "fingerprint-vs-legacy-buckets.md",
+      "description": "Why this beats DSM/ICD categorical diagnosis"
+    },
+    {
+      "file": "fingerprint-disorder-mapping.md",
+      "description": "How traditional disorders map to fingerprint patterns"
+    }
+  ],
+
+  "future_development": [
+    "Intervention mapping - what moves each characteristic",
+    "App/interface design",
+    "Tracking over time",
+    "Community data / similar fingerprints",
+    "Professional integration pathway"
+  ]
+}
